@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi! This is Nuobei. 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/nuobeizhang/ 
-- ⚡ Fun fact: I 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDUwdGVxN3Q5ZWwxamkyM3ZtbDI5NWhrNHR5NjRmd2c4YXkycDZ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="100"/>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/nuobeizhang/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCcbGEHAwD_dyq-CrbbuiQ_g">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+</div>
+
+
+

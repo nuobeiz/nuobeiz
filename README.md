@@ -11,12 +11,15 @@
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="rstudio" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="sql" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt="github" width="45" height="45"/>
 </p>
 
 ----
 ## My Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nuobeiz&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuobeiz&show_icons=true&theme=transparent)
 
 ----
 ## TO BE ADDED 

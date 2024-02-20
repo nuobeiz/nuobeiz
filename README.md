@@ -14,9 +14,13 @@
 </div>
 
 ----
-## My Stats:
+## My Languages and Tools
+
+----
+## My Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nuobeiz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+----
+## TO BE ADDED 
 
 

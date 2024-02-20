@@ -21,6 +21,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nuobeiz&theme=dark&background=000000)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuobeiz&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuobeiz&hide_progress=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nuobeiz)](https://github.com/nuobeiz/github-profile-trophy)
 
 ----
